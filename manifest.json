@@ -1,0 +1,13 @@
+{
+  "name": "xnbt",
+  "description": "In-game NBT Editor — view, edit, and save NBT for any entity, block-entity, or item while playing.",
+  "version": [1, 0, 0],
+  "type": "mod",
+  "entry": "xnbt.so",
+  "author": "xnbt-dev",
+  "license": "MIT",
+  "repository": "",
+  "dependencies": [
+    { "name": "LeviLamina", "version": ">=0.13.0" }
+  ]
+}
